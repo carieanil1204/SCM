@@ -1,5 +1,6 @@
 #!/bin/bash
 # this program counts till 5 and breaks
+#file edited on github 
 valid=true
 count=1
 while [ $valid ]
